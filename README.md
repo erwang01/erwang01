@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm a Junior at UC Berkeley.
+
+- 📫 How to reach me: erwang@berkeley.edu 
+- ⚡ Fun fact: 🔍 still searching for a good one...
+
 <!--
 **erwang01/erwang01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
