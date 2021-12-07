@@ -2,6 +2,7 @@
 
 I'm a Junior at UC Berkeley.
 
+- 👯 I’m looking to collaborate on hackathons! I'm hoping to go to TreeHacks in Feb 2022.
 - 📫 How to reach me: erwang@berkeley.edu 
 - ⚡ Fun fact: 🔍 still searching for a good one...
 
