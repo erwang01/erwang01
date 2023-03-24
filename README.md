@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Junior at UC Berkeley.
+I'm a software engineer at Benchling.
 
 - 👯 I’m looking to collaborate on hackathons!
 - 📫 How to reach me: erwang@berkeley.edu 
